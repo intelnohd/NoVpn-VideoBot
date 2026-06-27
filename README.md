@@ -29,8 +29,8 @@
 
 1. Клонируйте репозиторий:
    ```sh
-   git clone https://github.com/yourusername/telegram-video-bot.git
-   cd telegram-video-bot
+   git clone https://github.com/intelnohd/NoVpn-VideoBot.git
+   cd NoVpn-VideoBot
    ```
 2. Установите зависимости:
    ```sh
